@@ -55,7 +55,7 @@ span{
 }
 
 H1, h3, h2{
-    color: white;
+    color: #fcc00c;
     font-size: 24px;
     text-align: center;
     margin-bottom: 10px;
@@ -83,6 +83,7 @@ H1, h3, h2{
     text-shadow: 2px 2px 2px black;
     background-image: url(fondoseccionmovil1.webp);
     background-size: cover;
+
 }
 
 
@@ -186,6 +187,7 @@ input{
 
 .ultimocontenedor img{
     margin-bottom: -12px;
+    margin-top: 30px;
 
 }
 
@@ -341,6 +343,7 @@ input{
     .ultimocontenedor img{
         height: 400px;
         margin: -20px;
+        margin-top: 20px;
     }
 
     #conten2{
